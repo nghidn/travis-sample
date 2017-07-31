@@ -9,6 +9,6 @@ script:
 notifications:
 email:
 recipients:
-  - nghidn1@viettel.com.vn
+  - nguyennghihero@gmail.com
 on_success: never # default: change
 on_failure: always # default: always
